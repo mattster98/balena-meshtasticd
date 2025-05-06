@@ -9,7 +9,7 @@ Meshtastic Linux Native Application with Charlie Unicorn magic on your PiZero W 
 >
 > ***To ensure the longevity and proper function of your LoRa radio, always verify that the antenna is securely attached before powering on the device.***
 
-[![balena deploy button](https://www.balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=<https://github.com/SamEureka/balena-meshtasticd>)
+[![balena deploy button](https://www.balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=<https://github.com/mattster98/balena-meshtasticd>)
 
 ## :wrench: Hardware
 _balena-meshtastic_ has been tested with the following devices:
